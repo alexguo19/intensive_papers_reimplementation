@@ -13,7 +13,7 @@ A curated list of influential machine learning / deep learning papers, organized
 - Understanding the Difficulty of Training Deep Feedforward Neural Networks
 
 ## 2012
-- ImageNet Classification with Deep Convolutional Neural Networks
+- [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/alexguo19/intensive_papers_reimplementation/tree/main/alexnet_pytorch)
 
 ## 2013
 - Efficient Estimation of Word Representations in Vector Space
