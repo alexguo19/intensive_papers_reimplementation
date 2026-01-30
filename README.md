@@ -16,17 +16,17 @@ A curated list of influential machine learning / deep learning papers, organized
 - [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/alexguo19/intensive_papers_reimplementation/tree/main/alexnet_pytorch)
 
 ## 2013
-- Efficient Estimation of Word Representations in Vector Space
+- [Efficient Estimation of Word Representations in Vector Space](https://github.com/alexguo19/intensive_papers_reimplementation/tree/main/word2vec_python)
 - On the Difficulty of Training Recurrent Neural Networks
 - Playing Atari with Deep Reinforcement Learning
 
 ## 2014
 - Dropout: A Simple Way to Prevent Neural Networks from Overfitting
-- Conditional Generative Adversarial Nets
+- [Conditional Generative Adversarial Nets](https://github.com/alexguo19/intensive_papers_reimplementation/tree/main/cgan_pytorch)
 - Convolutional Neural Networks for Sentence Classification
 - Deep Speech: Scaling Up End-to-End Speech Recognition
-- Generative Adversarial Networks
-- Going Deeper with Convolutions
+- [Generative Adversarial Networks](https://github.com/alexguo19/intensive_papers_reimplementation/tree/main/gan_pytorch)
+- [Going Deeper with Convolutions](https://github.com/alexguo19/intensive_papers_reimplementation/tree/main/googlenet_pytorch)
 - Neural Turing Machines
 - Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
 - Sequence to Sequence Learning with Neural Networks
